@@ -1,5 +1,5 @@
 # Isabel-de-la-Cuadra.github.io
-Portafolio de proyectos 
+Portafolio de proyectos
 
 Descripción:
 Dentro del marco de lo aprendido durante este Drill, se ha analizado la importancia de contar con un portafoli digital, para poder exponer nuestros conocimientos técnicos a futuros empleadores o clientes.
