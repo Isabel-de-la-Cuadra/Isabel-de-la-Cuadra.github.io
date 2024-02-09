@@ -11653,7 +11653,7 @@ section.resume-section .resume-section-content {
     /* Oculta el texto que excede la altura máxima */
     overflow: hidden;
     /* Altura de línea deseada */
-    line-height: 1.2em;
+    line-height: 1.3em;
     /* Agrega puntos suspensivos (...) al final del texto recortado */
     text-overflow: ellipsis;
     /* Muestra solo 3 líneas de texto */
