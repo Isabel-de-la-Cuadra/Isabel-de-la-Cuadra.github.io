@@ -2,7 +2,7 @@
 Portafolio de proyectos
 
 Descripción:
-Dentro del marco de lo aprendido durante este Drill, se ha analizado la importancia de contar con un portafoli digital, para poder exponer nuestros conocimientos técnicos a futuros empleadores o clientes.
+Dentro del marco de lo aprendido durante este Drill, se ha analizado la importancia de contar con un portafolio digital, para poder exponer nuestros conocimientos técnicos a futuros empleadores o clientes.
 A esta altura, ya habrás comenzado la realización de tu portafolio digital, por lo que se solicitará:
 1. Tu portafolio digital deberá encontrarse en algún servicio de Hosting gratuito
 2. Tu portafolio presentará, al menos, dos proyectos realizados durante este curso, pudiendo incluir más de ellos que te hagan sentir seguro o, pudiendo incluir proyectos independientes.
