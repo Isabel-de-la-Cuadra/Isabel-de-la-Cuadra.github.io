@@ -18,12 +18,13 @@ SEO Básico: metadatos y estructura adecuada para mejorar la visibilidad en moto
 
 📁 Estructura del Proyecto
 
+```plaintext
    ├── index.html           # Página principal de la landing page
-   └── assets
-       ├── CSS   
+   └── 📁 assets
+       ├── 📁 CSS   
        │   └── styles.css   # Archivo CSS para estilos personalizados
-       ├── images           # Imágenes utilizadas en el sitio
-       ├── js
+       ├── 📁 images           # Imágenes utilizadas en el sitio
+       ├── 📁 js
            └── script.js    # Archivo JavaScript para interactividad
 
     
