@@ -5,33 +5,40 @@ Este repositorio contiene el código de mi landing page profesional, diseñada p
 
 🌐 Tecnologías Utilizadas
 
-    HTML5: Estructura base de la página.
-    CSS3: Estilos personalizados.
-    JavaScript: Funcionalidad interactiva en el frontend.
-    Bootstrap 5: Framework para diseño responsive, facilitando el layout y estilos predeterminados.
+HTML5: Estructura base de la página.
+CSS3: Estilos personalizados.
+JavaScript: Funcionalidad interactiva.
+Bootstrap5: Framework para diseño responsive y estilos predeterminados.
 
 🎨 Características
 
-    Diseño Responsivo con Bootstrap: Uso de clases de Bootstrap 5 para una experiencia adaptativa en dispositivos de escritorio, tabletas y móviles.
-    Componentes de Bootstrap: Implementación de componentes como navbar, cards y botones con el estilo predeterminado de Bootstrap.
-    SEO Básico: Metadatos y estructura adecuada para visibilidad en motores de búsqueda.
+Diseño responsivo con Bootstrap 5: uso de clases para una experiencia adaptativa en dispositivos de escritorio, tabletas y móviles.
+Componentes de Bootstrap 5: implementación de componentes como Navbar, cards y botones con el estilo predeterminado.
+SEO Básico: metadatos y estructura adecuada para mejorar la visibilidad en motores de búsqueda.
 
 📁 Estructura del Proyecto
 
 ├── index.html           # Página principal de la landing page
+
 └── assets
-    ├── CSS       
+
+    ├── CSS   
+    
     │   └── styles.css   # Archivo CSS para estilos personalizados
+    
     ├── images           # Imágenes utilizadas en el sitio
+    
     ├── js
+    
         └── script.js    # Archivo JavaScript para interactividad
+
     
 ✨ Funcionalidades
 
-    Sección de Inicio: Introducción breve y presentación.
-    Sección de Proyectos: Muestra algunos de los proyectos en los que he trabajado, con capturas y descripciones.
-    Sección de Habilidades: Lista de habilidades en desarrollo y diseño.
-    Sección de Contacto: Formulario básico de contacto y enlaces de redes sociales.
+Acerca de: Introducción breve y presentación.
+Experiencia profesional: breve detalle de experiencia profesional.
+Educación: listado de capacitaciones más relevantes.
+Habilidades Técnicas: listado de Lenguajes de Programación, Frameworks, Gestores de Bases de Datos y Herramientas conocidas.
 
 📬 Contacto
 
