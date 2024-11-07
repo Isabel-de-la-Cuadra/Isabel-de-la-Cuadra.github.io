@@ -32,9 +32,9 @@ SEO Básico: metadatos y estructura adecuada para mejorar la visibilidad en moto
 
 ✨ Funcionalidades
 
-Acerca de: Introducción breve y presentación.
-Experiencia profesional: breve detalle de experiencia profesional.
-Educación: listado de capacitaciones más relevantes.
+Acerca de: Introducción breve y presentación.  
+Experiencia profesional: breve detalle de experiencia profesional.  
+Educación: listado de capacitaciones más relevantes.  
 Habilidades Técnicas: listado de Lenguajes de Programación, Frameworks, Gestores de Bases de Datos y Herramientas conocidas.
 
 📬 Contacto
