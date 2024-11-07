@@ -1,21 +1,8 @@
 # Isabel-de-la-Cuadra.github.io
 Portafolio de Proyectos
 
-Este es el repositorio del código fuente de mi Landing Page, diseñada para mostrar mi perfil como desarrollador full stack JavaScript y Diseñador UX/UI. 
-
-Esta página está construida con HTML, CSS, JavaScript y Bootstrap 5, lo que permite una estructura moderna y un diseño responsive.
-
-🌐 Tecnologías Utilizadas
-
-    HTML5: Estructura base de la página.
-    CSS3: Estilos personalizados.
-    JavaScript: Funcionalidad interactiva en el frontend.
-    Bootstrap 5: Framework para diseño responsive, facilitando el layout y estilos predeterminados.
-
-Si usaste Bootstrap 5 para estructurar y estilizar la landing page, podrías actualizar el README para destacar que aprovechas esa librería. Aquí tienes el README modificado:
-Portafolio - Landing Page para Desarrollador Full Stack JavaScript y Diseñador UX/UI
-
 Este repositorio contiene el código de mi landing page profesional, diseñada para mostrar mi perfil como desarrollador full stack especializado en JavaScript y diseñador UX/UI. Esta página está construida con HTML, CSS, JavaScript y Bootstrap 5, lo que permite una estructura moderna y un diseño responsive.
+
 🌐 Tecnologías Utilizadas
 
     HTML5: Estructura base de la página.
