@@ -26,6 +26,8 @@ SEO Básico: metadatos y estructura adecuada para mejorar la visibilidad en moto
        ├── 📁 images           # Imágenes utilizadas en el sitio
        ├── 📁 js
            └── script.js    # Archivo JavaScript para interactividad
+```plaintext
+
 
     
 ✨ Funcionalidades
