@@ -1,5 +1,5 @@
 # Isabel-de-la-Cuadra.github.io
-Portafolio de Proyectos
+# Portafolio de Proyectos
 
 Este repositorio contiene el código de mi landing page profesional, diseñada para mostrar mi perfil como **desarrollador full stack especializado en JavaScript y diseñador UX/UI**.  
 
